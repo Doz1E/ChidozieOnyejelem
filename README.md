@@ -3,7 +3,7 @@
 ---
 
 - 🎓 I'm currently studying Computing at TU Dublin
-- 🛠️ Passionate about coding and implementing what I learn in my projects
+- ❤️ Passionate about coding and implementing what I learn in my projects
 
 ---
 
